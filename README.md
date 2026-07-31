@@ -13,9 +13,12 @@
 
 - 🎓 Fresh graduate in **Computer Science (Hons.), Netcentric Computing** from **UiTM**
 - 📍 Based in **Bestari Jaya, Selangor** — open to roles in **Selangor, Cyberjaya, Putrajaya, KL**, and willing to relocate to **Melaka**
-- 💼 Currently job hunting for roles in **Mobile / Software Engineering**, with **MUSIXMUSIX (Junior Flutter/Mobile Developer)** as a top target
+- 💼 Currently job hunting for roles in **Mobile / Software Engineering**
 - 🧠 Actively upskilling through a self-directed learning roadmap while building portfolio projects grounded in real workplace experience
 - 🌱 Just wrapped up **JavaScript (Intro)**, now pushing into **JavaScript (Intermediate)**, next up: **GetX → Flutter Unit Testing → React.js**
+- 💪 Self-directed learner — I build a roadmap, stick to it, and turn real workplace problems into portfolio projects instead of just tutorials
+- ⚡ Practical over perfect — I'd rather ship something working and improve it than wait for the "ideal" version
+- 🔧 Comfortable picking up new tools fast, from Power BI automation to Flutter mobile apps to backend APIs
 
 ---
 
@@ -56,16 +59,16 @@
 
 ### 🚀 Featured Projects
 
-- **🗓️ [Staff Scheduling Automation](#)** — A Python application that helps manage employee work schedules, calculate total working hours, and automate scheduling workflows. Inspired by real retail experience at FamilyMart; currently at CLI stage, with fullstack web version in progress.
+- **🗓️ [Staff Scheduling Automation](https://github.com/Ext-Adlii/schedule-tracker)** — A Python application that helps manage employee work schedules, calculate total working hours, and automate scheduling workflows. Inspired by real retail experience at FamilyMart; currently at CLI stage, with fullstack web version in progress.
   `Tech: Python • JSON`
 
-- **🔐 [Password Generator](#)** — A command-line Python application that generates secure, customizable passwords.
+- **🔐 [Password Generator](https://github.com/Ext-Adlii/password-generator)** — A command-line Python application that generates secure, customizable passwords.
   `Tech: Python`
 
-- **✅ [Todo List CLI](#)** — A simple command-line task manager built to practice file handling and core programming concepts.
+- **✅ [Todo List CLI](https://github.com/Ext-Adlii/todolist_CLI)** — A simple command-line task manager built to practice file handling and core programming concepts.
   `Tech: Python`
 
-- **🧮 [Simple Calculator](#)** — A basic calculator app built with Flutter to practice UI layout and state management fundamentals.
+- **🧮 [Simple Calculator](https://github.com/Ext-Adlii/simpleCalculator)** — A basic calculator app built with Flutter to practice UI layout and state management fundamentals.
   `Tech: Flutter • Dart`
 
 ---
