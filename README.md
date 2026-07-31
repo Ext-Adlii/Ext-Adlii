@@ -90,7 +90,7 @@ Final Year Project that verifies product authenticity using Flutter, Firebase, Q
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Stats 
 
 <p align="center">
 
