@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Adli Imran
+# Hi there 👋, I'm Nur Adli Imran Bin Yunus
 
 💻 **Software Developer** | Flutter • Python • Automation • AI Workflow
 
