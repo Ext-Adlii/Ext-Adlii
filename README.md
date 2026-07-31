@@ -1,133 +1,96 @@
-# Hi there 👋, I'm Nur Adli Imran Bin Yunus
-
-💻 **Software Developer** | Flutter • Python • Automation • AI Workflow
-
-I'm a Computer Science graduate who enjoys building practical software that solves real-world problems. My interests include backend development, automation, mobile development, and AI-powered workflows.
-
----
-
-# 🚀 About Me
-
-* 🎓 Bachelor of Computer Science (Hons.) – Netcentric Computing
-* 📱 Flutter Developer
-* 🐍 Currently learning Backend Development with Python
-* 🤖 Interested in AI Automation & Workflow Automation
-* 📊 Experience with Power BI & Power Platform
-* 🌱 Building automation tools and real-world applications
-* 💡 Always learning new technologies
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### Frameworks & Technologies
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
-
----
-
-# 🌟 Featured Projects
-
-### 🗓️ Staff Scheduling Automation
-
-A Python application that helps manage employee work schedules, calculate total working hours, and automate scheduling workflows.
-
-**Tech:** Python • JSON
-
----
-
-### 🔐 Password Generator
-
-A command-line Python application that generates secure, customizable passwords.
-
-**Tech:** Python
-
----
-
-### ✅ Todo List CLI
-
-A simple command-line task manager built with Python to practice file handling and core programming concepts.
-
-**Tech:** Python
-
----
-
-### 📱 Blockchain Product Authentication System
-
-Final Year Project that verifies product authenticity using Flutter, Firebase, QR codes, and blockchain technology.
-
-**Tech:** Flutter • Firebase • Solidity • Ganache
-
----
-
-# 📚 Currently Learning
-
-* Backend Development
-* REST APIs
-* SQL Databases
-* FastAPI
-* Docker
-* AI Workflow Automation
-* n8n
-
----
-
-# 📈 GitHub Stats 
+<h1 align="center">Hi, I'm Nur Adli Imran 👋</h1>
+<h3 align="center">Fresh CS Grad → Software Engineer | Flutter & Full-Stack Enthusiast</h3>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ext-Adlii&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ext-Adlii&layout=compact&theme=tokyonight"/>
-
+  <a href="https://github.com/Ext-Adlii">
+    <img src="https://img.shields.io/badge/GitHub-Ext--Adlii-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+### 👨‍💻 About Me
 
-<p align="center">
+- 🎓 Fresh graduate in **Computer Science (Hons.), Netcentric Computing** from **UiTM**
+- 📍 Based in **Bestari Jaya, Selangor** — open to roles in **Selangor, Cyberjaya, Putrajaya, KL**, and willing to relocate to **Melaka**
+- 💼 Currently job hunting for roles in **Mobile / Software Engineering**, with **MUSIXMUSIX (Junior Flutter/Mobile Developer)** as a top target
+- 🧠 Actively upskilling through a self-directed learning roadmap while building portfolio projects grounded in real workplace experience
+- 🌱 Just wrapped up **JavaScript (Intro)**, now pushing into **JavaScript (Intermediate)**, next up: **GetX → Flutter Unit Testing → React.js**
 
-<img src="https://streak-stats.demolab.com?user=Ext-Adlii&theme=tokyonight"/>
+---
 
+### 🏢 Experience
+
+| Role | Company | Focus |
+|---|---|---|
+| Software Engineering Placement | **CARSOME** | Flutter / Mobile Development |
+| Data Services Intern | **PwC Malaysia** | Power BI, Workflow Automation |
+| Graduate Apprentice | **Aisling Group** | Software Engineering |
+| GenAI Full-Stack Programme | **Cognizant × InvestKL × SHRDC** | Generative AI, Full-Stack Development |
+| Retail Assistant (Part-Time) | **FamilyMart** | Transitioning into Tech |
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend & Data**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
+
+**Tools & Automation**
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Architecture**
+`Clean Architecture` · `RESTful API Design` · `Microsoft Power Platform`
+
+---
+
+### 🚀 Featured Projects
+
+- **🗓️ [Staff Scheduling Automation](#)** — A Python application that helps manage employee work schedules, calculate total working hours, and automate scheduling workflows. Inspired by real retail experience at FamilyMart; currently at CLI stage, with fullstack web version in progress.
+  `Tech: Python • JSON`
+
+- **🔐 [Password Generator](#)** — A command-line Python application that generates secure, customizable passwords.
+  `Tech: Python`
+
+- **✅ [Todo List CLI](#)** — A simple command-line task manager built to practice file handling and core programming concepts.
+  `Tech: Python`
+
+- **🧮 [Simple Calculator](#)** — A basic calculator app built with Flutter to practice UI layout and state management fundamentals.
+  `Tech: Flutter • Dart`
+
+---
+
+### 📚 Learning Roadmap
+
+Progress on a structured 7-step self-directed learning path:
+
+- [x] Python (Intermediate) — SoloLearn
+- [x] SQL (Intro + Intermediate) — SoloLearn
+- [x] JavaScript (Intro) — SoloLearn
+- [ ] JavaScript (Intermediate) *(in progress)*
+- [ ] GetX
+- [ ] Flutter Unit Testing
+- [ ] React.js
+- [ ] Java (Intermediate) — resume backup
+
+> 💡 *Guiding principle: landing any job beats waiting for a "complete" roadmap.*
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/Ext-Adlii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
-
-# 🎯 2026 Goals
-
-* 🚀 Build more backend projects
-* 🤖 Develop AI-powered automation tools
-* 🌐 Create a full-stack web application
-* 🐳 Learn Docker and deployment
-* 📚 Strengthen Data Structures & Algorithms
-* 💼 Grow as a Software Engineer
-
----
-
-# 📫 Connect With Me
-
-* 💼 LinkedIn: [www.linkedin.com/in/adli-imran](http://www.linkedin.com/in/adli-imran)
-* 📧 Email: [adli261102@gmail.com](mailto:adli261102@gmail.com)
-
----
-
-⭐ *"Keep learning. Keep building. Every project is a step forward."*
+<p align="center"><i>⭐️ From <a href="https://github.com/Ext-Adlii">Ext-Adlii</a></i></p>
