@@ -26,7 +26,7 @@
 
 | Role | Company | Focus |
 |---|---|---|
-| Software Engineering Placement | **CARSOME** | Flutter / Mobile Development |
+| Software Engineering Placement | **CARSOME** | Flutter / Mobile Development (BLoC, Provider) |
 | Data Services Intern | **PwC Malaysia** | Power BI, Workflow Automation |
 | Graduate Apprentice | **Aisling Group** | Software Engineering |
 | GenAI Full-Stack Programme | **Cognizant × InvestKL × SHRDC** | Generative AI, Full-Stack Development |
@@ -53,7 +53,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Architecture**
-`Clean Architecture` · `RESTful API Design` · `Microsoft Power Platform`
+`Clean Architecture` · `RESTful API Design` · `Microsoft Power Platform` · `BLoC` · `Provider`
 
 ---
 
